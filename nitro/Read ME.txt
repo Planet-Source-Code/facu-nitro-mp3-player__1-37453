@@ -1,0 +1,15 @@
+Nitro! Mp3 Player.
+
+The littlest possible window, prepared to focus all your attention on the music
+
+[IMPORTANT!]
+You should compile it before running it. And after that, associate it, moving your mouse over the icon that apears on the systray and clicking on the app icon.
+A window will open and you will find a button with "associate" as a caption.
+To open an mp3, double click on the file after associating this program, or drag the mp3 into the compiled app.
+The rest is very simple.
+
+[Known Bugs]
+The window goes up and down... I didn't know how to solve it
+
+Have FUN!!!
+Redib Warfare
